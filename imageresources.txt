@@ -1,0 +1,5 @@
+// Images used
+StressedGirl.jpg - https://images.squarespace-cdn.com/content/v1/5d30c8509bab6100015b1f22/1570585859680-DGP2B40KFKOM26AIIE8G/Ineffective+Studying+-+Madison+Glende.png
+CryingGirl.jpg - https://thumbs.dreamstime.com/b/sad-young-woman-low-grades-depressed-female-student-crying-feeling-sad-failing-classes-university-238152173.jpg
+HappyStudent.jpg - https://www.google.com/url?sa=i&url=https%3A%2F%2Fphotodune.net%2Fitem%2Fjoyful-female-student-celebrating-with-fist-pump-feeling-victorious-and-happy%2F51212856&psig=AOvVaw0-SZiOrWXQxi1zABdTc5HC&ust=1743717819021000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICB0JutuowDFQAAAAAdAAAAABAE
+school.png - https://cdn.creazilla.com/cliparts/63211/school-clipart-original.png
